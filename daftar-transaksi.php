@@ -1,6 +1,6 @@
 <?php
 include("header.php");
-?>
+?> 
 <style>
   #main-content {
     margin-top: 40px;
